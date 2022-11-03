@@ -2,8 +2,13 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning javaScript  software development 
 - 📫  reach me AT https://www.linkedin.com/in/suhaib-alnaji-0835181b9/ OR suhaibaln0@gmail.com
+
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=suhaibaln&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaibaln&show_icons=true"/>
+
+
+                                            Languages and Tools:
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
