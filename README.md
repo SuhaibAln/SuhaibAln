@@ -5,7 +5,7 @@
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=suhaibaln&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaibaln&layout=compact"/> <br/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaibaln&layout=compact"/> <br/> <br/><br/>
 
 
  
