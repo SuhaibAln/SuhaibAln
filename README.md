@@ -5,12 +5,11 @@
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=suhaibaln&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaibaln&show_icons=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaibaln&theme=radical"/>
 
 
-                                           # Languages and Tools:
 
-
+    
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
