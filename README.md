@@ -8,7 +8,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaibaln&layout=compact"/>
 
  
-<div align="center"><h1>Languages and Tools:</h1></div>
+<div align="center">Languages and Tools:</div>
 
 
 
