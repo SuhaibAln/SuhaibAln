@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Suhaib Ashraf Alnaji 
+## I'm a Bidding specialist ,arch Linux user, full stack web developer 
+
+
+
 - 👀 innovative and passionate computer science graduate with an interst in continuous learning and skills acquiring
 - 🌱 I’m currently learning   dotnet Stack development 
 - 📫  reach me AT https://www.linkedin.com/in/suhaib-alnaji-0835181b9/ OR suhaibaln@hotmail.com
 
-## I'm a Bidding specialist ,arch Linux user, full stack web developer 
 
 
 <br/> 
