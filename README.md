@@ -1,8 +1,9 @@
-## I'm a Bidding specialist ,arch Linux user, full stack web developer 
 
 
 
 <h1 align="center">Hi 👋, I'm suhaib aalnaji</h1>
+## I'm a Bidding specialist ,arch Linux user, full stack web developer 
+
 <h3 align="center">innovative and passionate computer science graduate with an interst in continuous learning and skills acquiring</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaibaln&label=Profile%20views&color=0e75b6&style=flat" alt="suhaibaln" /> </p>
