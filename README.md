@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm suhaib aalnaji</h1>
-## I'm a Bidding specialist ,arch Linux user, full stack web developer 
+<h2>I'm a Bidding specialist ,arch Linux user, full stack web developer   </h2>
 
 <h3 align="center">innovative and passionate computer science graduate with an interst in continuous learning and skills acquiring</h3>
 
