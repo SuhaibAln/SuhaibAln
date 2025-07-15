@@ -7,7 +7,7 @@
 
 
 <br/> 
-### 🛠️Languages and Tools:
+ <h3>🛠️Languages and Tools: </h3>
 
 <img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="arch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
