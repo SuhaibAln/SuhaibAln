@@ -6,9 +6,7 @@
 
 <h3 align="center">innovative and passionate computer science graduate with an interst in continuous learning and skills acquiring</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaibaln&label=Profile%20views&color=0e75b6&style=flat" alt="suhaibaln" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhaibaln" alt="suhaibaln" /></a> </p>
 
 - 🔭 I’m currently working on **futureEdit**
 
